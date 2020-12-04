@@ -8,6 +8,7 @@ let package = Package(
     targets: [
         .target(name: "Day 1"),
         .target(name: "Day 2"),
-        .target(name: "Day 3")
+        .target(name: "Day 3"),
+        .target(name: "Day 4")
     ]
 )
